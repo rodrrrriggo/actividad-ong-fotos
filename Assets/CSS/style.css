@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(33,37,41,255)
+}
+
+
+.barra{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(255,193,7,255);
+}
+
+.carousel-item img{
+    margin: 0px;
+    width: 25rem;
+    height: 25rem;
+}
+.container-propio{
+    max-width: 90%;
+    margin: 0 auto;
+}
+
+
+
+.card-title {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.card-text {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
